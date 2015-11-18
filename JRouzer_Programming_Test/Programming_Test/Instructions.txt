@@ -1,0 +1,32 @@
+
+
+Description:	Given a list of people with their birth and end years (all between 1900 and 2000),
+	find the year with the most number of people alive.
+
+Code:			Solve using a language of your choice and dataset of your own creation.
+
+Submission:		Please upload your code, dataset, and example of the program's output to
+	Bit Bucket or Github. Please include any graphs or charts created by your program.
+
+
+--------------------------------------------------------------------------
+To Do:
+1) Setup a class for people with needed variables
+2) Create multiple ways to load a list of people (STL::list<>, array, etc)
+3) Sort the list into appropriate data structure (Array of +/- values for born/end this year)
+4) Be able to determine which year hold the most living people
+5) Output information into sorted file
+
+
+Note on To Do 5:	File Setup;	
+-------------------------------------
+|Total People: 						|
+|Most People Alive at Once:			|
+|The Year:							|
+|									|
+|Year Most People Born:				|
+|Year Most People End:				|
+|									|
+|[List]								|
+-------------------------------------
+

@@ -1,0 +1,15 @@
+Total People: 7
+Most People Alive at one time: 3
+That was in the year: 1901
+
+Year with the most people BORN: 1900 at 2
+Year with the most people's END: 1902 at 2
+
+Each Person's years were as follows:
+1901, 1902
+1922, 1933
+1934, 1988
+1900, 2000
+1900, 1902
+1985, 2000
+1944, 1977
